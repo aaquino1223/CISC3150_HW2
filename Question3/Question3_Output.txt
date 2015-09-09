@@ -1,0 +1,16 @@
+Please enter the word to get a palindrome check
+
+racecar is a palindrome
+
+Would you like to try again? Y/N
+Please enter the word to get a palindrome check
+
+bukhari is not a palindrome
+
+Would you like to try again? Y/N
+Please enter the word to get a palindrome check
+
+peep is a palindrome
+
+Would you like to try again? Y/N
+END OF PROGRAM

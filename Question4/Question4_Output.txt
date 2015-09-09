@@ -1,0 +1,11 @@
+Please enter five words to search
+What character would you like to search?
+
+Words:
+1. alex
+2. first
+3. torch
+4. monster
+5. king
+Character: s
+Char has been found and loop ended via label
